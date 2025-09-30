@@ -1,4 +1,4 @@
 def test():
-    print('This is a test function.')
+    print('Ceci est un test')
 
 test()

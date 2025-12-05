@@ -1,5 +1,5 @@
-# PROJECT_ML
+# ELECTRIC VEHICLE RANGE PREDICTION
 
-test push PC BAPTISTE
+This project aims to predict the driving range (range_km) of new Electric Vehicles (EVs) using their technical specifications and design characteristics (battery, dimensions, performance).
 
-Ca marche ouuuuuu ???
+The goal is to model the relationship between EV design choices and their energy performance, providing a basis for evaluating and optimizing future vehicle designs.
